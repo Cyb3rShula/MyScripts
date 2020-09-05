@@ -1,4 +1,4 @@
-# MyScripts
+# MyScripts(version 2.2 developed by Nimsara prabath)
 Scripts to automate most common tasks that I perform in daily life. Yeah, like a SysAdmin, automate and stay lazy. :P
 ---------------------------------------------------------------------------------------
 
